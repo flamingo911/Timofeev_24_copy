@@ -99,6 +99,7 @@ public class Main {
         }
     }
     //Testing basturd
+    //NOT COMPLETE!
     public static void main(String[] args) {
         if (args[0] != null) {
             if (readGraph( args[0] )) {
