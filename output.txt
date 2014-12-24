@@ -1,0 +1,13 @@
+Length matrix
+0	1	2	
+1	0	3	
+2	3	0	
+
+Arcs counts
+From 1 vertex comes 2 arcs.
+From 2 vertex comes 2 arcs.
+From 3 vertex comes 2 arcs.
+
+Maximum and minimum edges
+Edge 1-2 has smallest weight: 1
+Edge 3-2 has biggest weight: 7
