@@ -98,7 +98,7 @@ public class Main {
             System.err.println("ERROR! Failed to create file!");
         }
     }
-
+    //Testing basturd
     public static void main(String[] args) {
         if (args[0] != null) {
             if (readGraph( args[0] )) {
